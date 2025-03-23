@@ -1,2 +1,2 @@
-FROM docker-compose
-COPY . /app
+FROM koyeb/docker-compose
+COPY . /CloudDbExample_CharactersCRUD
